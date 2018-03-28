@@ -1,0 +1,41 @@
+body {
+    position: fixed;
+    z-index: 999;
+    width: 248px;
+    margin-top: 3%;
+    margin-left: 3%;
+    font-family: 'Circularstd book', sans-serif;
+    font-size: 22px;
+    line-height: 34px;
+}
+
+
+h1 {
+	color: darkblue;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	right: 0px;
+	bottom: 0px;
+	overflow: visible;
+	height: 100%;
+
+}
+
+h2 {
+	color: blue;
+}
+
+p {
+	color: grey;
+}
+
+.placeholder {
+	border: 5px solid orange;
+	padding: 5px;
+	color: orange;
+}
+
+.important {
+	text-decoration: underline;
+}
